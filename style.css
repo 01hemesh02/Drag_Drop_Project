@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.div_containt{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+}
+img {
+    width: 50%;
+}
+#drag1{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:200px;
+    height:200px;
+}
